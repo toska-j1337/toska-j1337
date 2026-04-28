@@ -8,15 +8,15 @@ I have been running Linux for over 10 years. My favorite distro is Slackware.
 
 ## Experience
 
-**Backend Developer Intern**
+**Backend Developer Intern**:
 Jan 5th 2026 - Apr 10th 2026
-Designed and implemented PostgreSQL database schema for article storage in JSONB
-Built RESTful API endpoints using Rust and Actix-web for database integration
+- Designed and implemented PostgreSQL database schema for article storage in JSONB
+- Built RESTful API endpoints using Rust and Actix-web for database integration
 
-**Remote IT Support / Systems Administrator**
+**Remote IT Support / Systems Administrator**:
 Nov 23rd 2024 - Present
-Enterprise systems maintenance, reliability, upkeep, and troubleshooting
-Provide support for enterprise healthcare systems
+- Enterprise systems maintenance, reliability, upkeep, and troubleshooting
+- Provide support for enterprise healthcare systems
 
 ## Projects
 
