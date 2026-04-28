@@ -1,16 +1,31 @@
-## Hi there 👋
+# Self-taught Systems Programmer
 
-<!--
-**toska-j1337/toska-j1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My foundation comes from Gerald Sussman's *SICP* (my favorite book), *Software Design for Flexibility*, and his lectures.
 
-Here are some ideas to get you started:
+I primarily work in Rust, with strong interest in async systems, low-level performance, and infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have been running Linux for over 10 years. My favorite distro is Slackware.
+
+## Experience
+
+**Backend Developer Intern**
+Jan 5th 2026 - Apr 10th 2026
+Designed and implemented PostgreSQL database schema for article storage in JSONB
+Built RESTful API endpoints using Rust and Actix-web for database integration
+
+**Remote IT Support / Systems Administrator**
+Nov 23rd 2024 - Present
+Enterprise systems maintenance, reliability, upkeep, and troubleshooting
+Provide support for enterprise healthcare systems
+
+## Projects
+
+**Solana Transactions Indexer**
+High-performance real-time Solana transaction indexer built using:
+- Helius LaserStream + Tokio
+- PostgreSQL + sqlx
+- Prometheus + Grafana
+
+Seeking junior Rust roles, preferably remote.
+
+- 📫 Reach me at: toska.admin@proton.me
